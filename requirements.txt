@@ -1,10 +1,5 @@
-streamlit==1.36.0
 requests==2.32.2
+streamlit==1.36.0
 dotenv==0.9.9
-langchain-core==1.4.8
-langchain-protocol==0.0.18
 langgraph==1.2.8
-langgraph-checkpoint==4.1.1
-langgraph-prebuilt==1.1.0
-langgraph-sdk==0.4.2
 pypdf==6.14.2
